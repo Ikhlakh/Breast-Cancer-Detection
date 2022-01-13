@@ -1,2 +1,2 @@
-# Breast-Cancer-Detection
-Detect Breast Cancer Of Patient From Data 
+# Breast-Cancer-Detection-App
+ Breast Cancer Detection App Using Machine Learning XGBoost Classifier
